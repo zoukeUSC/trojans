@@ -1,0 +1,9 @@
+// The average Profit Y (in dollars), Kanye is estimated to make based in X number of weeks. 
+//   X          Y             
+     1          5007.48
+     2          8756.45
+     3          12825.40
+// U
+30
+
+

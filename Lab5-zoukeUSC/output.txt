@@ -1,0 +1,3 @@
+Entering Constructor
+Attributes Initialized
+Entering Destructor
